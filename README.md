@@ -6,9 +6,12 @@
 
 - Subir el archivo CSV de los datos en AWS S3 (Data lake)
   Los datos son:
-  id_cliente, nombre_cliente, plan, fecha_inicio, fecha_fin, monto
-  • 1, Cliente A, Plan Básico,2024-01-01,2024-12-31,25
-  • 2, Cliente B, Plan Premium,2024-02-01,2024-12-31,50
+
+```
+    id_cliente, nombre_cliente, plan, fecha_inicio, fecha_fin, monto
+    -1, Cliente A, Plan Básico,2024-01-01,2024-12-31,25
+    -2, Cliente B, Plan Premium,2024-02-01,2024-12-31,50
+```
 
 # SEGUNDO PASO
 
